@@ -1,0 +1,23 @@
+From 6fd50fbdbc8ec90913cad7a206650d0b2a657a0b Mon Sep 17 00:00:00 2001
+From: Joe Ferrer <joe@insidesherpa.com>
+Date: Thu, 31 Oct 2019 09:23:43 +0800
+Subject: [PATCH 03/11] Fix client_test import of client3.py
+
+---
+ client_test.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/client_test.py b/client_test.py
+index a608a01..af2bf26 100644
+--- a/client_test.py
++++ b/client_test.py
+@@ -1,5 +1,5 @@
+ import unittest
+-from client import getDataPoint
++from client3 import getDataPoint
+ 
+ class ClientTest(unittest.TestCase):
+   def test_getDataPoint_calculatePrice(self):
+-- 
+2.25.0.windows.1
+

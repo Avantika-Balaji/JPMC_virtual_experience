@@ -1,0 +1,34 @@
+From 2b1660551c858f853061231a7764cc4762f7789f Mon Sep 17 00:00:00 2001
+From: jbf-insidesherpa <54832297+jbf-insidesherpa@users.noreply.github.com>
+Date: Wed, 20 Nov 2019 10:38:43 +0800
+Subject: [PATCH 06/11] Update README (setupv5a+mchangesv4a)
+
+---
+ README.markdown | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/README.markdown b/README.markdown
+index c4beab9..3390f3c 100644
+--- a/README.markdown
++++ b/README.markdown
+@@ -32,7 +32,7 @@
+ 
+ <h2 id="installation" >Set up / Installation</h2>
+ 
+-<p>In order to get the server and client application code working on your machine, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/setup_devenv_m1_v3bb.pdf">follow the setup here</a></p>
++<p>In order to get the server and client application code working on your machine, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/setup_devenv_m1_v5a.pdf">follow the setup here</a></p>
+ <p><b>Note:</b>This is the Python 3 version of the JPM 1 exercise. The Python 2.7 version is in <a href="https://github.com/insidesherpa/JPMC-tech-task-1">this other repo</a></p>
+ 
+ <h2>How to Run</h2>
+@@ -63,7 +63,7 @@ Query:
+ 	{"id": "1", "top_ask": {"price": 129.18, "size": 70}, "timestamp": "2016-08-06 12:32:11.821574", "top_bid": {"price": 128.79, "size": 61}}
+ 
+ <h2>How to fix the code to meet objectives</h2>
+-<p>To make the changes necessary to complete the objectives of this task, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/making_changes_m1_v3a.pdf">follow this guide</a>.</p>
++<p>To make the changes necessary to complete the objectives of this task, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/making_changes_m1_v4a.pdf">follow this guide</a>.</p>
+ <p>To do the bonus task, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/client_test_m1_v1a.pdf">read this</a>.</p>
+ 
+ <h2>How to submit your work</h2>
+-- 
+2.25.0.windows.1
+
